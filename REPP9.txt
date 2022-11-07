@@ -1,0 +1,234 @@
+<roblox!‰ÿ
+
+     W          META$   "       ð      ExplicitAutoJoints   trueINST          ð       Folder        INST9          ÿ      Keyframe "  Uð(&(*(*(*(*   €*""""INST+   E       ÿ      KeyframeSequence 
+  
+ hnljpnrrfINSTe   ¹      ÿ      Pose *  ÿÿÿÿÿÿr-    0 1 3 2 1 — "Ê  5 T # 
+      `PROP"           ð       AttributesSerialize    PROP          ð       Name
+   AnimationsPROP           ð    
+   SourceAssetId       PROP          ð       Tags    PROP)   ¤       ð      AttributesSerialize  mP     PROP@   Ÿ      ÿ
+      Name   Keyframe ­Ì OF1.5É ! 0!  9  TPframePROP'   &      ÿ   
+   SourceAssetId  Ú 	PPROP   •       À      Tags  mP     PROPQ   •       ð      Time ~ € 	  À|}}~~ €€    	  P™3Ì3³   " 3      š4Ì44 PROP(   D       ÿ      AttributesSerialize  P     PROP;   B       ô      AuthoredHipHeight  €	 ð      Â°nn*°öFl PROP          ð      LoopPROPT   ]       Ð      Name	 @Bang ±Suck   Sit 0ide ÑLay    Invers 0Hug !Do7 ÐBend   DancePROP#   9       ÿ      Priority  	°èPROP'   f       ÿ   
+   SourceAssetId  2 PROP   5       ï      Tags  P     PROP0   Ä      ÿ      AttributesSerialize  ÿÿÿÿÿÿÿÿ—P     PROPÁ(  IU      ð+      CFrame `Ü?Dt=È G»9  ½êÅ~?ÛŠ¼½    ¥¼=cé~?   €  €d„?Às{= @Às{½ & €?ë|?d>& @d¾  ôp?ÑŽ±¾ ðw
+r>2¨#?\S;¿$í>V³/?:|.k 
+p qY”m?-´¾5 @-´¾> ‘ `üp?ƒÃ¬` þ`b¾ ø?ÁSA¿ëw‚¾ý5?«Ï'K q"y?l‘lK @l‘l> » qdë}?úH& @úH> ð ùÿ?  €3  €2  D Â?   3  à2  à ñ\A?eµ›½j°;5œ=$ž~?ñ<Qñ«¨=O\? O©?×›RA@×›R½   €– ð
+¢˜•6€iÙ46–¶»ß~?ˆà¿= °y2ˆà¿½ Ã€MB=`¦Ù;Ãqz?ˆ5N~=RN¾õ¿zq\Ò|?\Û % @\Û ¾ 
+ÂqÆ{?$G @$G> 
+% q* ~?´íÓá @´íÓ= þ: pFp?´¯¾^?½Ëèˆ>sZN? ) ¿qY_>}T÷>SY? 
+ìg?'õ×>lº=ÕÈ¢¾ì0<?9H¿)(¾¿Þ ?MÒLo qùÜ?´ä;@´ä½ u€ox˜½áÕ…¼uq›Ry?´ÙZÞ r(}[¾Òzu€WÆP=ûÝÝ;uq`o}?þ©% ~¨×¾PÅ}(qÄ"{?þªF@þªF> t7ÿ6]7I‘  PÞ~?:YÀ2@:YÀ½ 
+W€Â·
+¼§ý¿1 @§ý?  ~?šüþ: ñ ¶øþ=0þ}¿ Û2¼Å%²º»v1<ü1 
+o qÿW`?ÒŸöW@ÒŸö¾ 
+o qzLc?Šë% @Šë¾ ñ É?ˆk=‘<@i#½ýI?vò¿PÁ-½’–?¬;J? ˜a¾l¶y© @l¶y?  µ   ;ðþ[H?á÷>‘OÈ¾û'¾™—ä¾b5a¿¡¿¿¥¤@?¦\Š¾ «ÿ>\Ì]õP \Ì]¿ G    K      qkt?Šš@Šš> ÿ gä?È¼»Ò„ì<ð5»\‹|?«'>xƒì¼R«'¾Èo` a6Š<«öDP «ö?  §Ÿ|?ÎÂ%` ñ ¿®%¾|¿°Öû<£»d„ø¼á1 
+• q¸q]?Cr Ë @Cr ¿ uð
+"œ‡· ‰
+6S’…7²q?ÁF¬¾ £i6ÁF¬> à  /qÆ
+
+>
+¡}†@
+¡}? ð <|?Œ'+>Ý½ù.>GHw¿üôF>fôºD@J¾ßôz1 
+º qFÿS?Û€º @Û€¿  <“}?òL>
+q8hÒ½l‡H
+r„“º½Õ8
+ñÔ¹N?Øã
+?Öúl¾û*+>h6¿ ÕJ¿ÀÎ¿‡ã?3„¿ 0|üäq!Þ ={	[äq‚Ž
+¾›!b/Ð˜ q>_g?ÊÛ! @ÊÛ> ÿ úØ?8\»«=È]»…{?ú5G>½€½6G¾‰ôg a„} =v6±P v6? ò 6»z?³$N¾Uon<h•N¾ždy¿‹ZÏ=TRË»TÑ½B¨~(ð
+]· 2©5.QZ7$)v?B•Œ¾°b!6B•Œ> ½$ Üìÿê €,Ì°ØƒS¬ØƒS?Š6 P,Š6¿ ò ¥j?Ã>,ù½Ó6>0h¿h×G¿
+¾¾xŠ2?ïïŸ F  bÑÇ}?-ŒM@-Œ¾ Ÿq#åf?žÝY@žÝ> ñ BÈw?ëJr¾q—­=öþ|>tU?
+Åü¾óü<=¶`ÿ>5‘]? ò5s?ÎŸ: @ÎŸ> |   ¬ñ_&y?/šg>‰*&=‡^5¾žÒY?à>ý¾Òæ¾RÊò>Ú?^? à¬v?íˆ|@íˆ¾ C   K      qÐül?¤ Á6 @¤ Á¾ 1 ý
+"²
+ø 
+p 2  À3 ðvôn?kõ±¾»J¶=ÛÌÌ½Qû¾Ý¥]¿l°>…œL?düØ 
+p €û?ÀhH<| @ÀhH¼ – ð
+¿Kû·4ø7 Ìó78I?n¿Ü<A7n? & 1   ç5g2„ç6,D4çð9¥j?Ã>µ+ù½è#>D} ¿ô;C¿Ç»¾—ü-?¢"¿ ½÷?ø$»7p€¼Q§;öb|?Ä\+>]Yv<9l+¾¨[|ºð€?¢	¡5 Gj4Ý½‰µ#³l?Ð Ã¾šÖ0µÐ Ã> ÿ HÈw?›Jr¾3—­=~W>Ð\?;.â¾Wñ =Þ½å>£dæò Y&y?˜šg>ý)&=D|@¾¾›b?ÄãÙ¾—U ¾¬'Ð>´mg” óYèÕµ€bhµn‰î5´/t?½™>Rãº4½™¾´/t? qôn?jõ±¾>L¶="’¾ñ#¿1MK¿g;¨>4{:?kæ¿ æv? ¯"<,Õ‚=Ï®¼½Ì{?!r7>z½×s8¾¸Sð
+ëB¸¼¦#7vdü7uD?"$¿ zP7"$? ˜ÿÏðÊ°½ß?Ó<0v¿Iö¥½ò†¾ßA…¾{ìý¼Çw? 8Mð>x
+bªþ	 °Ñ>ôH^¾ùb¿ÐkH¿ó
+Õ>lÎìqdöÕ>#“h5 @#“h¿ ñ
+ ëdy?½g¾Z®«»¯g>·Sy?sA¹<a )¾¼Wî_  €¥ç?àPß¼ @àPß< ñ vŽb?]é>dçÂ½8¯í¾zY?¡ ƒ¾Ä=½Z”Š>ÐE-
+K p.y?øÈj° P øÈj> Q Bo© ñ;çÚ´¾Žß=:†s?ö´“>
+¬>…â¾_Óc? 5?#£¼«l¦½ø³¢¼Í c?²ýë¾Ër¦=rýë>	;b? ~fa?s½òa ð@¿¾j1‰¾^Ûs¿Õ9ç>nµV?cÑ› 
+– aC«=÷ú P ÷¿ ÿ MÎ}?E÷Ò¼%(¾ÿ¿±½½Z?K¿×üÇ=' L?•uÃq¼ ?êmOå q•à¿>ÈŠÃ€×è7¿Ê?Ã€§g¾B$¬;q Sy?®À¹xP9¬¾<? wqB.æ>\-øwq×óT?†½›wðv¡¦>]ãq? :èh?
+½=DäÓ¾R>TUm?Fd´>®'Ê>X=¿¾ïâVŒ 
+€àå~?ÐÔ½½ç@ÐÔ½= ð `ü~?C¸¼´0°½Ù·¼æ`_?×ù¾ž7°=ÌÖù>G]^? ÷`k?òRÉY Èõ½:Dur?Æ¿>¼6`uÿIÎ}?f°½ƒ^ ¾×¾±½!?(ªW¿®þÇ=ý™X?%OÿŒXbHi–¼óôÚ@óô? ð [y?ÉÕ7?¾Úž¾Ð”¿4Š=%\¿]¯¿ÞP1?*­ÏA	
+¢pBz¿¥I»P ¥I¿ p q¯l? >‰ŒA >‰½ ðÓ-p?`d¾”‡>ÄD¬>81D?K¿S¦½|??LAK? åë?YN´
+ñ2 Úñã>ã¨>†EU?<¨+¿!ý¾7š
+? AA}?¼ý=¬]Ÿ½]Ò¾è\l?2q¶¾ÆÇã<Æ2º>q]n?T K që™9?…Q0½ @…Q0¿ ð; b|~?¯o	½c†Ó½æT	½´MO?lõ¿ÄŠÓ=Sõ?ÊM? ³â4?ëÉ,¿¤Y>Ö¤û>ç>hU¿ÖS?(ˆ1?á‚W 
+p SÛ´¾7Y@7o¿ ð ÝÆ?Ó–n»ÔY*=Ã–n;ÿ?%Ÿ8ÓY*½x¢ž8KÇÜL  ³
+Ãq·z
+?gnGÃ€ë­¿po<ÃŠN*¿6w Ãpê] ¿eHY¯ P eHY¿ 
++pˆ}?"P "¾  ns?-ó#Âqºã‘>ówIÂr@y÷½ˆÂqÎ=?J¼XÂqŠÄï>:¸–Âq‡4¿Ù ãÂ (?:
+ ÁqFÐi½Ê¿nÁq¦ {=ç¸Á xº~?ªßËF@ªßË½ Ë o  q§sH?;Þ @;¿ ñ ;:~?xã ½"»â½¹Æ ½ûýF?Q½ ¿DÀâ=3½ ?48E? W|"?Ç1>ãqz³?‚ÚMã™œ?fq#ãq>$£¾¨ro @¨r¿ ð ëÿ?°¹aÓ:¿9yï>Þ3aÓº´ Ç3êÿâ¥ÿñ¿ I¶3Ö°³².½»³-x¿‡u6  Á-x? ­²v?­Ãˆ ñã¢½ü‹>¯w¿L÷ƒ¾è
+n?yn†> ~?ˆ«øìóYž¹½­=?»Z*?
+z¥=)¿ ?eê¡   [°?ŸßI0@ŸßI=  È	}?œP
+ðKƒ¢=ða?Œ+Z¿]>_¥W?îqŸâp?ïR­— ñ %¾¾Qå>”#a¿ûm˜¾¨ØS?Vµó> X¬u?&ôL @&ô> z  q‹µ?b1CÍ @b1C½ 
+b€3d}?†Ï>J @†Ï¾ ñ  ?ŽÆž¼òg¤½#ž¼èßc?
+é¾cj¤=èé> c? ûát?z>•• ñº×=	½h>8«x¿Xø>³Þm?êMs> Æn|?ýY*% óµg>ÆÁ??A}&?f“Ý½W+$¿~wBQð
+å‡7°Fq6îŠ·$‡p?8L¯>Ð†68L¯¾ Œçð±>k?Û¶É>H·›¼{UÆ½‚í6>¸¨z¿oÄÃ¾æÎf?‚*Oì 
+Áp¥*x?`{ P `{¾ ñ =l?¨‹M=F‰6=Ÿâ£<x©Ò>CEi¿=3ƒ½ùh?J¬Ñ> Ø‹f?’Þà @’Þ>   Q€? äœyA =.a$  =   ñ‘[|?Ê'¾Á$½ØÐÇ<ZVÀ>ú*m¿™L*>ÖŠi?’£¿> ¡
+d?žè© @žè¾  B  Ù   €¿þ?¸ËÊ» @¸ËÊ; 
+q³²?ùãF  @ùãF= ÿ; ŽØ~?’{Ñ¼G »½aLÑ¼ÍãZ?^—¿†
+»=D—?d¼Y? æ%h?¢×¾‹¼þ¶ï=Æ¤”>q"s¿úQÏ>òø[?¡ >½¤ÿ³Û q)?7·~ç@7·~½ ð =Üs?Fæš>’’½Ÿ¸f½õ]=ëö~¿©™¾Xs?*x«1 
+Æq0±r?î¢û@î¢¾ 
+Æp”Ö?v›> P v›½ 
+% qÞ¤?®ïW% @®ïW½ 
+% qã­ê>H†c@	@H†c? ò dt?kÎ’¾Wó¼=8š>¦`h?#‹s«Óœ>÷±sÎ   qG¿>ÐvmK @Ðvm? ñ	 óÑq?f£>q
+¢½?	¨¾õ¯j?¨2iIFßv>ïrxK  qWû}?åS @åS ¾ 
+» qyO?˜7–Ë@˜7–= ý; =â?¨ )»øóõ¼ÅŠ(»ÁB|?U\.¾6õõ<J\.>ó$|? Ò-u?ÇÇ‘¾Ú(=‘Ç¸=æÊ%>q{¿”Ú‹>Óàq?)9>o qˆi?sÀÑ” @sÀÑ¾ ð ù ð*   -  €*þÿ?–ü1 @ø´² &   /q‚ã–>p0›/b.n—½Eä/p°ås? \ì 
+uqµJ?Û,@Û,¿ 
+» pÄ´?Æ6D> P Æ6D= 
+% qt»?f³L¿@f³L? ð Ñœ`?@6å¾rª0>ÊGí>¯¢2?!Ò
+¿Ô4þ=l%?¥ØQ{ 
+” q?ÈPJ @ÈP? ÿ øc?˜ýÔ>ÊQN¾v‰æ¾>Ï-?ðt¿ çÕ½òÞ?V¹  q³¢?°{ZÃ@°{Z½ 
+¹ qý?`w6@`w< ò À§?dú»`&R½tùù»Dêt?üú”¾N(R=îú”>’tq}ûŒ¾¡ªq^P<cï~pv?|¦{ 
+Þ b³}I?jêr@jê¿ ” ð
+ø€¦¶ Ä13‚¿¥6È~?8¤Ô½ „þ48¤Ô=  6ÿÿa²U•½‹QP ‹Q¿ zY‚  Â«>G@G}? 
+% b kp¼ñøJ @ñø¿ 
+% q-b|?™ƒ+ñ@™ƒ+¾ P )Ygòþ
+ m7Û¾
+ÎÚ¾yåz=ôéf¿¡ØÖ<ñ„?r¼b4qnN}>8
+x@8
+x? Q ¢^lK þ Ä>EèÂ> >ëMj¿–|O½`Ã}?*mùK b¾†>yà @y}? ZqÏz‘>Éruq @Éru? ð ¿ö?ØëPº[‰¼€ÛOº{Ø~?âBÂ½Å‰<èBÂ=JÏ~‘ 
+QqÆÀ4>îú{K @îú{? 
+,bžóŒ=šdQ@šd¿ 
+% qîT}?¡uQ@¡u¾ % ð
+R]¸´ †7¤ê8!?ˆ”F¿”¡7ˆ”F? à 
+a€Õâ=Çl1 P Çl~? p  ( b¼e¼˜ùº @˜ù¿ 
+% q Û|?   º @   ¾ 
+% €râ?*ýõ<Z @*ýõ¼ /q
+o„½®³Ø/bÚýš½&¢/p€º~?Ÿ©Ä—
+” qˆZ>žõ|s@žõ|? .bD$¨<$X.qä’©=3Æk.o?˜‘s PXRv<—áp   —ø? 
+¹ bÊ³¾>l”¹@l”m? ó Õê?°¨ïºàKÏ¼@ÚîºY}?Æô¾ÈLÏ<ªô>cD½ ï  bùˆ¦=ø&o @ø&? 
+o b|R<½²ºr@²º¿ % ð
+'.¸”@®7ÁÏ%8ù?‡Y¿ÐôË7‡Y?  $ ÿÐbU?9=ñ¼V@ñ¼¿ Vœ  b4­,½½Å @½Å? 
+% a{³z?-D?P -DO¾ ¡ C7{?¡
+Eº
+@¡
+E>  T  ¡€? q<U?â§
+@â§
+? !    Âp@4~?)òÝP )ò½    ¡€? RÑb?‡fít@‡fí¾ !    K      qyEq?‚)«6 @‚)«¾   †
+B  p2&   6 €ª
+  búÃ½.Ö?@.Ö~? *  q@w?¼³„p @¼³„¾ – ð
+­Äº·è¬”6sÐ¶7E
+c?†ˆì¾ FÕ6†ˆì> & I Ãa¶XN¾Ÿ¿.'P Ÿ¿z? 
+– qÏäg?æØ– @æØ¾ 
+% që}?xÊ% @xÊ¾ 
+% qËƒ`?2 ö% @2 ö¾ ñ êõ? 4cºÖu<àæeºí»~?ÜhË=Ât¼ìhË½Ú±Ð
+Þ q„††¾iw@iw? 
+o qøÙ`?•Äôo @•Äô¾ )$ Üìÿˆÿ%  
+3p}D?º$”	P º$¿ ð… ”ž^?	’ï=‚™õ>†"Ê¾Ôˆ??oƒ?ªÐ—¾›1'¿æa2? Œ£w?)UÌ½ñn>Ç>—ÃÇ>nšb¿”*»¨Rj?0Î> ²p?’ï½»¤¾4%†>Q¨Y?êÅé>ca>éd¿Œ`T? ëü{?Ì‘=·|"¾J¢3¾+é?¦"V¿›­“<ÊçY?sH› ð|D?ö?¸¤>wÕ²ûÿÿ>Ù³]¿¼$¿Õ)?xÄÖ
+á aýÿÿ>Ø³+P Ø³]¿ ð ú™g?>Ô¾+™É½6K>Æ®?.ºW¿£ùÌ>7~??V‚ 
+K S  ?ÕK @Õ³]¿ • aòÐ1>[¾	P [|¿ 
+†q´$?‚D«@‚D? 
+% q\|?ÔÐ1@ÔÐ1> ù; •ž^?
+’ï=ƒ™õ>™³¬¾U¨Y?híÎ>è›¸¾äd¿±`G? ~<|?û¡½n>7H.>¥?ÍmT¿ìVs¼bçW?Ä€	?›Ðea>Ë*m?ºvœ>5§ù4·¾¤re? «1~?>+w=—	Ñ½³î½ºª'?3#?¿'Œ²<¦Õ@?ÚH(?šþ.À
+"?á¿í ¿o˜ä½ô‹?»NI¿ ü™g?>Ô¾-™É½æ¼¾/‹%¿<é*¿‚6Z>^ë#?Aë<¿‰p±p?K¯ÙP K¯¾ 
+)R]|?ÐgP ÐÐ1¾ Æ‘ðda>£Æx>YÞq¿>¡¿Ì^K?/‚‚¶ 
+{ ¶ÆRð½×¡8ò¾l>ny¿÷$Ú>#Sa?7V8
+K  ¶Æ.  
+L >ÿ‹ Æ>@ÆÐ1> >aÿ9+w=Ž	Ñ½ø²î½¾ª'?0#?¿)Œ²<£Õ@?Þ>ÿÿÿ-2  g f  !eg  h±!v 
+    €f  {} u{¡A g ] r{|| i e
+ 
+  YP @h  fL   ß] Ypoor qpop  z2 } d xe  w {A  
+ w Æ !{z  " w> g  gg ` 
+! 1hfh g—  k 5 Ïhd x{ |z  ke  ` z ! h, `z {  hH  
+" qË h r  y   n fs y 
+"  ,  b
+ 
+   qfn fj lI   `nnmnnm
+  l    ó   ?nmo* À.  "`€ p   èÈ @	    °eá ×   |  $  À >w Ö   
+   I|   ¬Ð	 ¯Ž%ÿ{ ÿ˜n ¡v À€  a Ï   à ¬Ž _À Ï à  T 2 !³ !0  cÀ  € O 
+! 1@b  •Ê Ï  Q3 â·  ––    W %  ”   < 
+ > aÿ 
+   "    @   ` zl  
+ A € €  "    û   
+   e
+ €à p aH=à@õ„%  4l   	* ‘*  /r  BÔd D 4)¿ê
+ 
+  ’ 	 ¯¤0 ÿ°  ÿ€` x- ’€ R   õ  ?R ö  !áï  " Î   Í
+   
+!  î
+ \  
+Ü Aƒ     Bš  Ô
+  4Ó Ê
+  "  1Ã  û Ã  	"  æ  
+   p 2  
+   	 
+ 
+  P“È   U íj   [ )  €ñ  í  h@   0.  0  ‹0À X _     * 1 Xp    P+  Lê ø 
+! i# E    ‘  Ð ©±Ë     ¯  ~ñ 8   4P    
+"   }(   @  «     
+  "   #  P  Ð  *    #    š D  
+*  o °gi ih i hhhi €hffiyxih      ÿ ejd|{~ }} k mjki  ji|z}}zmijg  €hf hge g] ÿfih h zmozeyrypg  ª "gfC€{hc { eŒ Og{h{ €gh i|} i zgåßdii|}i xzgig! €ó f  hh  ekµß €hjz} z}v kg  ÿ|hg i { e| feigh f {hgii|g|heghi" ÿ}cjg |d |e { |feh} }hiij|j|e{|gg}" !edÿ	 Î	  C !fg<
+  ó
+~h fl ig me he  }zfnoknom ~k ole ie *  _ nokj* h P ` @€I @‡q@  @(Ú@ö °   ÿšÀ€fj% a4 ` tÛ8  d fƒ |.|`@  )D P€  €Àš Ð` ¿;orÊ Œ/”*€ >* 2   pH   ± .
+  
+ ± p‹ À  ÕÍ 1
+ O˜-À 
+ Ð ! !Hí  4 0  ( ß  wF N2 0À   ¶½ @Ð  #/ ð ßTÐ À@ À €\@" ÿŽ À   Û@ ¬  Àî ¸˜ Û€¬0dî" Õ a€   M €Ž
+   ¡3   ï  @ 
+ Ó ™ vXX 3 ¹ * 8*  /V" ¥â   u–• FŽ  Á  uš)ø§    
+Ò ¯Í  & Z XÀ È%   ÇÙ(O = Ù ô åk2 Z# ­ i!  ú. 
+ H  Ž) \|ó    		@½  K!  ù 0þ Û  ¯   	" `	 €  –ÃA ] Š;Ø @
+ ]‰ "   F 
+  p    $œ…Q  *  œ  ­™ 
+ À     i  ‘9 ) # …yA7«ð!    7@    [ ß oa `   á ö  *   R8  ‰Æ_8I a  µ§1€ 0zP3 ¹ ` !  H— æ n ¤ ) '    pg P ‰ ë!  Ñ '@ EÛ
+ "  ð m  )  Y - / )n Ÿ“- © 5"  ´  8  l  t     
+  '  "W@ v è  * '2|ec1e fãÙg }dd f|{e ce   € ~jei}|yuQf jifû¯e}||y{khdg  !jcre÷ àb h }{ql{ {pzs2   › acA ‹  ‘}g befh|f
+ 
+ €ih g|} e+ Pwhg g pf|}f |w@!  ~jh eg  j— ÿmff g ~gf}xh}xz m  à} fgffz gy d jI	À yggggyhzefjB " €iie {f {> {fåï{ghgg{g{iy{ f|"  ”  fAwg e¶	  ¡ci el fi kÍÓ || njnlln ik _l  kf* )b  ß q• € À”±
+  ¹ @*d] O, ào¶€ *»Â­|Ð2     *`^  /  Ï€ ›
+žŒ 	¼' Z/   ±2Y I  ?Š Y ™n t/ @ *€: @š @€  *·!  0Æ  ž	 ©0  X   Ò€ -@°ds    R
+Pµ    f ‘  €€P Ö '»" „b .ƒð û ˆ   Ü K ÀÀ@.€g ûˆ "   L 
+ ã   € ¤!€ [
+ ¨³“ ƒ)€(j p P³* P* EZ 	 `  W8   SV0b Œ Þ  0È(e71    º 	 ¯ÃB¸ Ÿ ÉÀ¹Œ ›-  ˜ ì 5 ?˜ d ä  9P 0î ¥     î¤ !  F 
+ õ  g_ &Ý*H    …	 Û  †  ° 07 ý  " – ‘í  Õ  Ê . ,, `î Õ Ë "   ! 
+ æ !`Ô- *  3  ä @  		 !‚àÛ	  + ¡¼Ôš ñ%1   ”ÌìUEÿ    «Z 3 P  ^dd_Ô   + 3 ra   ‘ i ?U ¡ Q1  ]¤Ž q_Á  Í  aª  q1!  Á4 +    p © \¤ ôLº
+    ž' @8 j  D6   "  a @á ák ‘0@ Ó	Ÿ Q `1 @"  i   Y  ¯    Ç ‘  n  î
+ Ô   #  
+   + 
+  * ' D C       PROP1   À      ÿ
+      EasingDirection  ÿÿÿÿÿÿÿÿ8 KPPROP(   ¼      ÿ   
+   EasingStyle  ÿÿÿÿÿÿÿÿ—P     PROPO  d      ð!      Name   HumanoidRootPart
+   LowerTorso ´eftUpperLeg " CLeg  1Foo: ( : 9Arm: 4Arm: ÂHand
+   Righg 5Arm h DArm	"  /  À 1Hea @TtsWÔ 5Btt5 … 5Leg F 5LegF  ¯ o   PnY ¡ 0ArmÁ  É 
+ º ´ Y·@¯#õ ¬ ë¬o Ý}£
+‡‡ Æ  ±Ãe_±@ ö ¼o1 ¼È
+Æ÷ 
+Ï È ¾
+ o·ÿÿ-§
+
+~  Ÿg	•ÿÿ-	¥	. 
+> \
+ ÆÿÿVd
+¿<	 >
+€ Ë‘
+“ÿ3›×
+ÿ(À&
+9 bÿÿ@Ú'™nÿÿw	P
+=
+ ( Xû
+9ÿ
+â	då í	¹I ë	¤
+, ì
+‡ C‡  Ùñî %Ñ á 	  ¨ 1 Œ› %
+]´  µ
+u‰vî Û“FÏ 	  wÿÙPtFootPROP8   f      ÿ   
+   SourceAssetId  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ! ÿÿPPROP    µ      ï      Tags  ÿÿÿÿÿÿÿÿ—P     PROP™   ·      ý      Weight     
+ 
+   
+ &         !  	& 	
+   "   
+& 
+    	 	 # 
+         ÿÿÿÿÿÿkP     PRNTP  ½      O W  ÿÿÿÿÿÿøõ
+!2$! ¥
+Ct 4 ÿ 0 
+&"  /Ez  ¸0 k X /Cx6  ß. 
+"   /Av   k Ï	(#  /G|  1.¥ ?
+Ú ß
+*[  /I~  2© 9 ¿0
+W  0=pY 1	  ý *  
+ - /µÕ]	ÿÿÿÿÿAP 5 !O   #7 #@     9  l %  3 ‡ ¡      Þ P   [	%)L! 1  [	\	4  \	µ   )N5 V >Eiâ ñP  6 k 6 /C×K  1.¼  @.)JV >AC¸ k p  m P# $G­q	 ‚ \	 p Ú .–L o P  p R$ >I‹  Ú
+o
+  9 ý¨
+© 06 n
+)FW ð=oÞ	\	@ Ö +#@ +9b %[„- +}š )“¼ PµÕEND     	       </roblox>
